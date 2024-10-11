@@ -1,0 +1,10 @@
+streamlit
+textblob
+nltk
+sklearn
+torch
+transformers
+pandas
+matplotlib
+wordcloud
+nrclex
