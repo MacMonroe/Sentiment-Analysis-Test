@@ -1,7 +1,7 @@
 streamlit
 textblob
 nltk==3.6.0
-sklearn
+scikit-learn
 torch
 transformers
 pandas
